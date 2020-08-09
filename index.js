@@ -60,12 +60,6 @@ const error = `
 <li class="nav-item">
 <a class="nav-link" href="https://pandownload.com/" target="_blank">网盘下载器</a>
 </li>
-<li class="nav-item">
-<a class="nav-link" href="https://www.xiaocongjisuan.com/show/api/all/1" target="_blank">小葱计算</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://www.pandownload.com/donate.html">捐助</a>
-</li>
 </ul>
 </div>
 </div>
@@ -503,12 +497,6 @@ const helpbody = `<!DOCTYPE html>
 <li class="nav-item">
 <a class="nav-link" href="https://pandownload.com/" target="_blank">网盘下载器</a>
 </li>
-<li class="nav-item">
-<a class="nav-link" href="https://www.xiaocongjisuan.com/show/api/all/1" target="_blank">小葱计算</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://www.pandownload.com/donate.html">捐助</a>
-</li>
 </ul>
 </div>
 </div>
@@ -577,12 +565,6 @@ const dbody = `<!DOCTYPE html>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="https://pandownload.com/" target="_blank">网盘下载器</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://www.xiaocongjisuan.com/show/api/all/1" target="_blank">小葱计算</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://www.pandownload.com/donate.html">捐助</a>
 </li>
 </ul>
 </div>
